@@ -36,6 +36,8 @@
       },
       {
         "tab": "API Reference",
+        "group": "API Reference",
+        "openapi": "openapi.yaml",
         "groups": [
           {
             "group": "API Documentation",
